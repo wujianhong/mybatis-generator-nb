@@ -12,6 +12,7 @@
                 <attr name="instanceCreate" methodvalue="org.openide.awt.Actions.context"/>
                 <attr name="noIconInMenu" boolvalue="false"/>
                 <attr name="selectionType" stringvalue="EXACTLY_ONE"/>
+                <!--attr name="selectionType" stringvalue="ANY"/-->
                 <attr name="type" stringvalue="org.mbgnb.core.filetype.nbftDataObject"/>
             </file>
         </folder>
